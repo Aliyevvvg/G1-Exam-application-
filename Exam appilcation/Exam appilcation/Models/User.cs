@@ -17,4 +17,6 @@ public class User
     public UserStatus Status { get; set; }
 [NotMapped]
     public virtual Student Student { get; set; }
+    [NotMapped]
+    public virtual Client Client { get; set; }
 }

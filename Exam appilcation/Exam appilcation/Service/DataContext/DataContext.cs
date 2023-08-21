@@ -29,11 +29,17 @@ public class DataContext:DbContext
         modelBuilder.HasDefaultSchema("ExamBot");
 
 
-        modelBuilder.
-            Entity<User>().
-            HasKey(x => x.Id);
-        
-        
+        modelBuilder
+            .Entity<User>()
+            .HasKey(x => x.Id);
+
+        modelBuilder.Entity<Client>()
+            .HasKey(x => x.Id);
+        modelBuilder
+            .Entity<Client>()
+            .HasOne(x => x.User)
+            .WithOne(x => x.Client)
+            .HasForeignKey<Client>(x=>x.UserId);
         
 
 

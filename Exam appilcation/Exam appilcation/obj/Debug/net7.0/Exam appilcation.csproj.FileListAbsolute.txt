@@ -1,0 +1,42 @@
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Exam appilcation.exe
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Exam appilcation.deps.json
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Exam appilcation.runtimeconfig.json
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Exam appilcation.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Exam appilcation.pdb
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Castle.Core.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Npgsql.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Telegram.Bot.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.csproj.AssemblyReference.cache
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.AssemblyInfoInputs.cache
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.AssemblyInfo.cs
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.csproj.CoreCompileInputs.cache
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.csproj.CopyComplete
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\refint\Exam appilcation.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.pdb
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\Exam appilcation.genruntimeconfig.cache
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\obj\Debug\net7.0\ref\Exam appilcation.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Humanizer.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Exam application\G1-Exam-application-\Exam appilcation\Exam appilcation\bin\Debug\net7.0\System.CodeDom.dll
